@@ -1,1 +1,2 @@
-First assignment in SoC-CNN based on python and git
+Assignments done for SoC 2021 based on CNN and their applications
+
