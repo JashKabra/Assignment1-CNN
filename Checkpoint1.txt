@@ -1,0 +1,17 @@
+SOC: CNN and its Applications
+Name:Jash Kabra
+Roll No:200050054
+
+We are still in the learning phase of this project so I have done some assignments and am doing the ML course by Andrew NG on Coursera.
+The assignments provide a hands on learning experience of the things learnt from the course.
+The first assignment involved learning the basics of Python and GIT and I learnt some basic libaries like numpy for arrays and 
+openCV, matplotlib,PIL for reading , processing and plotting images and histograms. I even tried edge detection as a start in image processing.
+I also learnt basic GIT commands like cloning a project,add,commit,push,status,adding new branches and merging them,etc.
+The second assignment was based on gradient descent and linear regression learnt from the ML course. We first tried gradient descent manually,
+plotted and analayzed it and then used the scikit-learn library which directly performs gradient descent.
+The third assignment involved logistic regression and also involved gradient descent. Similar to assignment 2, we first performed it
+manually and then used functions from scikit-learn library to do it for us.
+Apart from this I also learnt other different things based on ML from the course like multivariate linear regression, normal equation
+(to directly solve gradient descent), solving the problem of overfitting,etc. 
+I am currently also learning about neural networks which is more directly related to our project and thus seems more interesting and
+is also the topic of our last assignment before the midsem break.
