@@ -1,1 +1,9 @@
+Name: Jash Kabra
+Roll No: 200050054
+Project: Covid19-Detection using CNNs
 
+After learning basics of ML, this phase involved learning about implementing a basic layer of Convolutional Neural Networks,
+looking at case studies of previously implemented CNNs like ResNets, MobileNets, EffecientNets,etc.
+We solved a couple of assignments based on MNSIT classification of digits, using keras to implement a neural network for binary classification.
+I read a research paper on using CNNs for Covid10-Detection using the images of patients lungs and have been implementing it 
+in this notebook- https://deepnote.com/project/CovidDetectionCNN-Qohc1VhkSvSJQSPFrwjSfw/%2Fnotebook.ipynb
